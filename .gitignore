@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+results/
+data/
+models/
+logs/
+*.zip
+*.pcap
+*.parquet
+*.jsonl.gz
+*.gguf
